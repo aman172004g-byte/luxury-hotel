@@ -17,6 +17,8 @@ body {
     left: 0;
 
     width: 100%;
+    backdrop-filter: blur (10px);
+    background: radial-gradient(0, 0, 0, 0.5);
 
     display: flex;
     justify-content: space-between;
