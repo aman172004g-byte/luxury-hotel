@@ -216,8 +216,8 @@ section {
 }
 
 .room-card img {
-    width: 700px;
-    height: 700px;
+    width: 600px;
+    height: 300px;
     object-fit: cover;
 }
 
